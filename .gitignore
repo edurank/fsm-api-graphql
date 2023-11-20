@@ -1,0 +1,21 @@
+# Dependency directories
+node_modules/
+
+# Environment variables file
+.env
+
+# Log files
+logs/
+*.log
+
+# Output of 'npm pack'
+*.tgz
+
+# IDE configuration
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
